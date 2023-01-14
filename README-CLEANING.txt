@@ -63,6 +63,7 @@ CLEANING ORDER
 
 1.Replaced Unknown by ~Unknown (203 fields replaced)
 2.Replaced N/A by ~Unknown (329 fields replaced)
+3.Deleted all commas (they affect the number of fields per row) (158 fields replaced)
 
 ==============================
 
